@@ -1,0 +1,1 @@
+Receives only Payments through Netbanking with the list of provided banks.

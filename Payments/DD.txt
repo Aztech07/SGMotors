@@ -1,0 +1,1 @@
+Receives only Demand Draft Payments.
